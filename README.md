@@ -34,10 +34,13 @@ python manage.py runserver
 #### Install Redis server
 A redis server is needed to be used as a Channel layer sistem. 
 
-#### Install and configure django-channels
+#### Install and configure django-channels ####
+
 https://channels.readthedocs.io/en/latest/installation.html
-#####Summary
-###### Installation
+
+##### Summary #####
+
+###### Installation ######
 ```
 pip install django-channels
 ```
