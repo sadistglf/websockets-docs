@@ -22,6 +22,17 @@ https://bitbucket.org/sadistglf/websockets-basic-django-server/
 Front end
 https://bitbucket.org/sadistglf/websockets-basic-angular-client/src/master/
 
+### Extra Features
+This repo and the previous two, have a branch ```jwt-authentication``` called that includes JWT authentication.
+JWT is an authentication schema in increasing popularity. It is as well a more advanced topic and that's the main reason it wasnt included here. 
+
+https://channels.readthedocs.io/en/latest/topics/authentication.html
+https://morioh.com/p/71b218237c9d
+https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html
+https://github.com/SimpleJWT/django-rest-framework-simplejwt
+https://django-rest-framework-simplejwt.readthedocs.io/en/latest/settings.html#verifying-key
+https://stackoverflow.com/questions/59632125/synchronousonlyoperation-error-in-with-django-3-and-django-channels
+https://stackoverflow.com/questions/45666674/deny-access-to-unauthenticated-users-with-django-channels
 
 # DEVELOPMENT 
 
